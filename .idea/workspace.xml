@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ad5312f-3ce9-42de-98ad-0f241c4b890d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/annotation/RequestMapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/annotation/RequestMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/controller/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ReflectionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/annotation/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/annotation/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/controller/HealthCheckController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +57,9 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.example.annotation" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.controller" />
+    </key>
   </component>
   <component name="RunManager" selected="JUnit.ReflectionTest">
     <configuration name="ReflectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -113,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1690286114303</updated>
       <workItem from="1690286115401" duration="784000" />
-      <workItem from="1690334303877" duration="3856000" />
+      <workItem from="1690334303877" duration="4810000" />
     </task>
     <servers />
   </component>
