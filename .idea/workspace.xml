@@ -63,7 +63,7 @@
       <recent name="org.example.controller" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ReflectionTest.controllerScan">
+  <component name="RunManager" selected="JUnit.ReflectionTest.load">
     <configuration name="ReflectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Project.test" />
       <extension name="coverage">
@@ -129,9 +129,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ReflectionTest.load" />
         <item itemvalue="JUnit.ReflectionTest.controllerScan" />
         <item itemvalue="JUnit.ReflectionTest" />
-        <item itemvalue="JUnit.ReflectionTest.load" />
         <item itemvalue="JUnit.ReflectionTest.showClass" />
       </list>
     </recent_temporary>
