@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ad5312f-3ce9-42de-98ad-0f241c4b890d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/controller/HealthCheckController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/annotation/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/controller/HomeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/ReflectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/ReflectionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,9 +23,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="AnnotationType" />
         <option value="Enum" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -61,7 +64,7 @@
       <recent name="org.example.controller" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ReflectionTest">
+  <component name="RunManager" selected="JUnit.ReflectionTest.controllerScan">
     <configuration name="ReflectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Project.test" />
       <extension name="coverage">
@@ -95,8 +98,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ReflectionTest" />
         <item itemvalue="JUnit.ReflectionTest.controllerScan" />
+        <item itemvalue="JUnit.ReflectionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +112,7 @@
       <option name="presentableId" value="Default" />
       <updated>1690286114303</updated>
       <workItem from="1690286115401" duration="784000" />
-      <workItem from="1690334303877" duration="4810000" />
+      <workItem from="1690334303877" duration="8109000" />
     </task>
     <servers />
   </component>
